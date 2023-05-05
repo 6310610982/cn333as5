@@ -9,7 +9,7 @@ PhoneBook is an Android Application for 5th assignment of CN333 Class.
   
 ### Functionality
 
-1. Gather phone numbers and sort them by name.
+1. Store phone numbers and sort them by name.
 2. Edit contact's name, phone number, and tag.
 3. Delete contacts from phonebook.
 4. Add a tag to a phone number, such as Mobile, Home, Work, etc.
